@@ -18,3 +18,12 @@
 - 할 일 추가
 - 완료 처리
 - 저장 기능
+
+## 사용 기술
+
+- Python
+- List
+- Dictionary
+- Function
+- File I/O
+- Exception Handling
