@@ -1,4 +1,4 @@
-# 4. MovieManager
+# 4. MovieManage
 
 파이썬으로 만든 영화 관리 프로그램임.
 

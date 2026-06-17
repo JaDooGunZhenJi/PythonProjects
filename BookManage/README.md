@@ -1,7 +1,7 @@
-# 1. BookManager README 
+# 1. BookManage 
 
 
-# Book Manager
+# Book Manage
 
 파이썬으로 만든 책 기록 프로그램임
 

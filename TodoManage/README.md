@@ -1,7 +1,7 @@
-# 3. TodoManager README 
+# 3. TodoManage
 
 
-# TodoManager
+# TodoManage
 
 파이썬으로 만든 할 일 관리 프로그램임.
 

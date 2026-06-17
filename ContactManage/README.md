@@ -1,4 +1,4 @@
-# 2. Contact Manager
+# 2. Contact Manage
 
 파이썬으로 만든 연락처 관리 프로그램임.
 
