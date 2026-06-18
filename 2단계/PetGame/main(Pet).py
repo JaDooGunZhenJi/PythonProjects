@@ -1,6 +1,3 @@
-import os
-
-print(os.getcwd())
 from PetGame import Pet
 
 pet = Pet()
